@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: example
+Version: 0.0.1
+Summary: Just a simplest project to show you how to build your own project.
+Home-page: http://your.host.name/example
+Author: Tien-Yang Wu
+Author-email: wy36101299@gmail.com.tw
+License: UNKNOWN
+Description: 
+            example
+            ~~~~
+        
+            Just a simplest project to show you how to build your own project.
+        
+            :copyright: (c) 2015 by Chi-En Wu <jason2506@somewhere.com.tw>.
+            :license: BSD.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Documentation
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
